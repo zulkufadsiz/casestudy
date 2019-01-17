@@ -1,0 +1,42 @@
+{
+  "casestudy" : [ null, {
+    "point" : 9,
+    "title" : "Esaretin Bedeli",
+    "type" : "movies",
+    "year" : 1994
+  }, {
+    "point" : 8,
+    "title" : "Baba",
+    "type" : "movies",
+    "year" : 1972
+  },
+  {
+    "point" : 8,
+    "title" : "Baba2",
+    "type" : "movies",
+    "year" : 1974
+  },
+  {
+    "point" : 8,
+    "title" : "Kara Sövalye",
+    "type" : "movies",
+    "year" : 2008
+  },
+  {
+    "point" : 6,
+    "title" : "Taht Oyunları",
+    "type" : "series",
+    "year" : 2011
+  },{
+    "point" : 7,
+    "title" : "Breaking Bad",
+    "type" : "series",
+    "year" : 2008
+  }
+,{
+  "point" : 5,
+  "title" : "House of Cards",
+  "type" : "series",
+  "year" : 2013
+} ]
+}
